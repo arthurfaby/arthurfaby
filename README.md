@@ -1,5 +1,7 @@
 ### 👋
 
+[![afaby's 42 stats](https://badge42.vercel.app/api/v2/cld4hja8e00250gl71k4xerqt/stats?cursusId=21&coalitionId=220)](https://github.com/JaeSeoKim/badge42)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfaby)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
