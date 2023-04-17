@@ -20,6 +20,6 @@ You can see my progress at 42 Angouleme just below:
 |CPP Module 08|[![afaby's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cld4hja8e00250gl71k4xerqt/project/2940786)](https://github.com/JaeSeoKim/badge42)|
 |Inception|[![afaby's 42 Inception Score](https://badge42.vercel.app/api/v2/cld4hja8e00250gl71k4xerqt/project/2942782)](https://github.com/JaeSeoKim/badge42)|
 |ft_irc|[![afaby's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cld4hja8e00250gl71k4xerqt/project/3046162)](https://github.com/JaeSeoKim/badge42)|
-|ft_transcendence|Not yet subscribe|
+|ft_transcendence|[![afaby's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cld4hja8e00250gl71k4xerqt/project/3049483)](https://github.com/JaeSeoKim/badge42)|
 
 [![afaby's 42 stats](https://badge42.vercel.app/api/v2/cld4hja8e00250gl71k4xerqt/stats?cursusId=21&coalitionId=220)](https://github.com/JaeSeoKim/badge42)
