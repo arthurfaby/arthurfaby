@@ -1,4 +1,4 @@
-# France 🇫🇷
+# 🇫🇷
 
 ## Salut, je suis Arthur Faby 👋
 
@@ -14,6 +14,8 @@ N'hésitez pas à explorer mes dépôts, et contactez-moi si vous souhaitez coll
 - 📫 Vous pouvez me joindre via [LinkedIn](https://www.linkedin.com/in/arthurfaby/) ou par [Email](mailto:arthurfabypro@gmail.com)
 
 ---
+
+# 🇬🇧
 
 ## Hi there! I'm Arthur Faby 👋
 
