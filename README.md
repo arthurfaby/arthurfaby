@@ -15,7 +15,7 @@ N'hésitez pas à explorer mes dépôts, et contactez-moi si vous souhaitez coll
 
 ---
 
-# EN
+# 🇬🇧
 
 ## Hi there! I'm Arthur Faby 👋
 
