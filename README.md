@@ -2,7 +2,7 @@
 
 ## Salut, je suis Arthur Faby 👋
 
-Je suis un développeur **full-stack freelance** de 22 ans, basé en France. J'ai étudié à [42 Angoulême](https://www.42.fr/en/), une école de programmation prestigieuse, où j'ai affiné mes compétences et développé ma passion pour le développement web et mobile.
+Je suis un développeur **full-stack freelance** de 23 ans, basé en France. J'ai étudié à [42 Angoulême](https://www.42.fr/en/), une école de programmation prestigieuse, où j'ai affiné mes compétences et développé ma passion pour le développement web et mobile.
 
 La technologie et la programmation m'ont toujours fasciné, et cela fait maintenant plusieurs années que je m'y plonge pleinement. Ma curiosité et mon désir d'apprendre de nouvelles choses me poussent à constamment m'améliorer et à relever de nouveaux défis.
 
@@ -19,7 +19,7 @@ N'hésitez pas à explorer mes dépôts, et contactez-moi si vous souhaitez coll
 
 ## Hi there! I'm Arthur Faby 👋
 
-I'm a 22-year-old **full-stack freelance developer** based in France. I studied at [42 Angoulême](https://www.42.fr/en/), a prestigious coding school, where I honed my skills and passion for web and mobile development.
+I'm a 23-year-old **full-stack freelance developer** based in France. I studied at [42 Angoulême](https://www.42.fr/en/), a prestigious coding school, where I honed my skills and passion for web and mobile development.
 
 I have always been fascinated by technology and programming, and I've been diving deep into it for many years. My curiosity and eagerness to learn new things drive me to constantly improve and explore new challenges.
 
