@@ -1,6 +1,6 @@
 # 🇫🇷
 
-## Salut, je suis Arthur Faby 👋
+## Salut, moi c'est Arthur Faby 👋
 
 Je suis un développeur **full-stack freelance** de 23 ans, basé en France. J'ai étudié à [42 Angoulême](https://www.42.fr/en/), une école de programmation prestigieuse, où j'ai affiné mes compétences et développé ma passion pour le développement web et mobile.
 
