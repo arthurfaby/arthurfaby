@@ -20,7 +20,7 @@ N'hésitez pas à explorer mes dépôts, et contactez-moi si vous souhaitez coll
 
 ## Hi there! I'm Arthur Faby 👋
 
-I'm a 23-year-old **freelance software engineer** based in France. I studied at [42 Angoulême](https://www.42.fr/en/), a prestigious coding school, where I honed my skills and passion for web and mobile development.
+I'm a 24-year-old **freelance software engineer** based in France. I studied at [42 Angoulême](https://www.42.fr/en/), a prestigious coding school, where I honed my skills and passion for web and mobile development.
 
 I have always been fascinated by technology and programming, and I've been diving deep into it for many years. My curiosity and eagerness to learn new things drive me to constantly improve and explore new challenges.
 
