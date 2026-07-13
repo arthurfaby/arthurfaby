@@ -10,7 +10,7 @@ Actuellement, je me spécialise dans la création d'**applications web complète
 
 N'hésitez pas à explorer mes dépôts, et contactez-moi si vous souhaitez collaborer ou discuter tech !
 
-- 🌱 En ce moment, je m'intéresse particulièrement à [**AdonisJS**](https://adonisjs.com/)
+- 🌱 En ce moment, je me perfectionne en [**Spring Boot**](https://spring.io/projects/spring-boot)
 - 🇨🇭 Mon objectif actuel est de m'installer en Suisse romande !
 - 📫 Vous pouvez me joindre via [LinkedIn](https://www.linkedin.com/in/arthur-faby-1682b7290/) ou par [Email](mailto:arthurfabypro@gmail.com)
 
@@ -28,6 +28,6 @@ Currently, I specialize in building **complete web applications** using modern f
 
 Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or chat about tech!
 
-- 🌱 I'm currently learning more about [**AdonisJS**](https://adonisjs.com/)
+- 🌱 Right now, i'm improving my skills in [**Spring Boot**](https://spring.io/projects/spring-boot)
 - 🇨🇭 ATM, my goal is to move to Romandy (in Switzerland) !
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arthur-faby-1682b7290/) or [Email](mailto:arthurfabypro@gmail.com)
